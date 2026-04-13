@@ -2,3 +2,5 @@
 
 ## Sobre Mí
 lorem
+
+## Habilidades Técnicas
